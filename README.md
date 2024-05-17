@@ -10,7 +10,6 @@ If this work is helpful to you, please kindly cite：
   publisher={IEEE}
 }
 
-The CaFFe Dataset:
 @article{gourmelon2022calving,
   title={Calving Fronts and Where to Find Them: A Benchmark Dataset and Methodology for Automatic Glacier Calving Front Extraction from SAR Imagery},
   author={Gourmelon, Nora and Seehaus, Thorsten and Braun, Matthias and Maier, Andreas and Christlein, Vincent},
